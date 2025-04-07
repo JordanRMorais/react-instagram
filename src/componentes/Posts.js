@@ -3,24 +3,10 @@ import { useState } from "react";
 export default function Posts() {
   const p = [
     {
-      usuario: "assets/img/meowed.svg",
-      altUsuario: "meowed",
-      nome: "meowed",
-      post: "assets/img/gato-telefone.svg",
-      altPost: "gato-telefone",
-      like: "assets/img/respondeai.svg",
-      altLike: "respondeai",
-      curtidas: 101523,
+      usuario: "assets/img/meowed.svg", altUsuario: "meowed",nome: "meowed",post: "assets/img/gato-telefone.svg",altPost: "gato-telefone",like: "assets/img/respondeai.svg", altLike: "respondeai", curtidas: 101523,
     },
     {
-      usuario: "assets/img/barked.svg",
-      altUsuario: "barked",
-      nome: "barked",
-      post: "assets/img/dog.svg",
-      altPost: "dog",
-      like: "assets/img/adorable_animals.svg",
-      altLike: "adorable_animals",
-      curtidas: 99159,
+      usuario: "assets/img/barked.svg", altUsuario: "barked", nome: "barked", post: "assets/img/dog.svg", altPost: "dog",like: "assets/img/adorable_animals.svg", altLike: "adorable_animals", curtidas: 99159,
     },
   ];
 
